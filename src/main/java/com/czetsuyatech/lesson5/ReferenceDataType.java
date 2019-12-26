@@ -1,4 +1,4 @@
-package com.czetsuyatech.lesson4;
+package com.czetsuyatech.lesson5;
 
 public class ReferenceDataType {
 

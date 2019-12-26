@@ -1,4 +1,4 @@
-package com.czetsuyatech.lesson4;
+package com.czetsuyatech.lesson5;
 
 public class PrimitiveDataType {
 
@@ -54,12 +54,12 @@ public class PrimitiveDataType {
 
 		// uninitialized variable inside a method or constructor generates a compilation
 		// error
-		// byte b;
-		// System.out.println(b);
+//		 byte b6;
+//		 System.out.println(b6);
 
 		// overflow
-		// byte b2 = 111111111111;
-		// short s2 = 111111111111111;
+//		 byte b2 = 111111111111;
+//		 short s2 = 111111111111111;
 		// int i2 = 11111111111111111111111111;
 		// long l2 = 1111111111111111111111111111111111111111111111111111111111;
 
